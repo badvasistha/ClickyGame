@@ -1,1 +1,4 @@
-This app has been deployed to Heroku and can be navigated to with the following link. https://vasistha-clicky-game.herokuapp.com/
+* This is a simple memory challenge game written in React
+
+* Don't click the same card twice!
+Use this link to play:https://vasistha-clicky-game.herokuapp.com/
